@@ -1,5 +1,5 @@
-# movie_website Version 1.0 26/10/2016
-Project of making a movie website for full stack web developer code
+# movie_website Version (1.0) 26/10/2016
+Best Project of making a movie website for full stack web developer code
 
 GENERAL USAGE NOTES
 
