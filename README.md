@@ -1,4 +1,4 @@
-# movie_website Version 1.0 26/10/2016
+# movie_website Version 1.0 26/10/2016 # An Amazing Project
 Project of making a movie website for full stack web developer code
 
 GENERAL USAGE NOTES
