@@ -26,9 +26,13 @@ three_idiots = movie.Movie("3 Idiots",
                            "About life of three friends in a esteemed engineering college",   # noqa
                            "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/3_idiots_poster.jpg/220px-3_idiots_poster.jpg",   # noqa
                            "https://youtu.be/K0eDlFX9GMc")
+The_Godfather = movie.Movie("The Godfather",
+                           "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",   # noqa
+                           "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",   # noqa
+                           "https://www.youtube.com/watch?v=CWoQlDlyQj4")
 
 # Names of the movies are stored in a list
-movies = [Dark_knight, avatar, perks_of_being_a_wallflower, three_idiots]
+movies = [Dark_knight, avatar, perks_of_being_a_wallflower, three_idiots, The_Godfather]
 
 # List is passed on to the function in frest_tomatoes so that they can be displayed as a web page  # noqa
 fresh_tomatoes.open_movies_page(movies)
